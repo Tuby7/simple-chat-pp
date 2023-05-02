@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086477108810",
+    "project_id": "chatme-app-4107a",
+    "storage_bucket": "chatme-app-4107a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086477108810:android:37cec0564d0136e78d48b3",
+        "android_client_info": {
+          "package_name": "com.tuby.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086477108810-bpic7n78d3g2p725ef3rn9es8bb32rv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNh5JncHFlvP8qWMyDBEK4EFojQc_aXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086477108810-bpic7n78d3g2p725ef3rn9es8bb32rv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
